@@ -1,0 +1,5 @@
+# arch linux
+# install python-wheel, re2
+mitmproxy
+adblockparser
+git+https://github.com/andreasvc/pyre2.git
